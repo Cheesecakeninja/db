@@ -1,0 +1,16 @@
+{
+  "personnes": [
+    {
+      "id": 1,
+      "nom": "Zaccheo",
+      "personnage": "D. Trump",
+      "score": 6000
+    },
+    {
+      "id": 2,
+      "nom": "Bambino",
+      "personnage": "F. Legault",
+      "score": 4000
+    }
+  ]
+}
