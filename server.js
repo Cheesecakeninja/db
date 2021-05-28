@@ -8,3 +8,7 @@ server.use(middlewares);
 server.use(router);
 
 server.listen(port);
+
+app.get('/', (req, res) => {
+  res.send({ok:fakse});
+})
