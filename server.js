@@ -8,8 +8,3 @@ server.use(middlewares);
 server.use(router);
 
 server.listen(port);
-
-let s3 = new aws.S3({
-  accessKeyId: process.env.S3_KEY,
-  secretAccessKey: process.env.S3_SECRET
-});
