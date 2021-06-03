@@ -53,6 +53,18 @@
       "nom": "Hard day",
       "personnage": "D. Ford",
       "score": 5500
+    },
+    {
+      "id": 10,
+      "nom": "Francis",
+      "personnage": "E. Macron",
+      "score": 4125
+    },
+    {
+      "id": 11,
+      "nom": "I'mTooGood",
+      "personnage": "F. Legault",
+      "score": 15000
     }
   ]
 }
