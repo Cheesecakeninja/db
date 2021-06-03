@@ -11,6 +11,48 @@
       "nom": "Bambino",
       "personnage": "F. Legault",
       "score": 4000
+    },
+    {
+      "id": 3,
+      "nom": "Jeudi",
+      "personnage": "D. Ford",
+      "score": 8000
+    },
+    {
+      "id": 4,
+      "nom": "JohnyGo",
+      "personnage": "D. Ford",
+      "score": 7000
+    },
+    {
+      "id": 5,
+      "nom": "Mercredi S",
+      "personnage": "F. Legault",
+      "score": 1000
+    },
+    {
+      "id": 6,
+      "nom": "Beatme",
+      "personnage": "F. Legault",
+      "score": 6000
+    },
+    {
+      "id": 7,
+      "nom": "Jeudi",
+      "personnage": "J. Trudeau",
+      "score": 5000
+    },
+    {
+      "id": 8,
+      "nom": "Bha la",
+      "personnage": "F. Legault",
+      "score": 3000
+    },
+    {
+      "id": 9,
+      "nom": "Hard day",
+      "personnage": "D. Ford",
+      "score": 5500
     }
   ]
 }
